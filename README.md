@@ -44,7 +44,7 @@ The generated images exhibit kanji-like strokes and spatial structure, though th
 | ------------- | --------------------------- |
 | "the coolest looking guy in the world"     | ![](./generated_images/normal-the_coolest_looking_guy_in_the_world.png)     |
 | "Engineer"  | ![](./generated_images/normal-Engineer.png) |
-| "Fire Fighter"   | ![](./generated_images/normal-Fire_Fighter.png)    |
+| "Fire Fighter"   | ![](./generated_images/normal-Fire_fighter.png)    |
 
 ### Lora Fine-Tuning
 
@@ -52,7 +52,7 @@ The generated images exhibit kanji-like strokes and spatial structure, though th
 | ------------- | --------------------------- |
 | "the coolest looking guy in the world"     | ![](./generated_images/lora-the_coolest_looking_guy_in_the_world.png)     |
 | "Engineer"  | ![](./generated_images/lora-Engineer.png) |
-| "Fire Fighter"   | ![](./generated_images/lora-Fire_Fighter.png)    |
+| "Fire Fighter"   | ![](./generated_images/lora-Fire_fighter.png)    |
 
 *(Images are for illustrative purposes — real generations may vary)*
 
