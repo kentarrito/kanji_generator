@@ -30,7 +30,7 @@ Two variants of Stable Diffusion 2 were fine-tuned:
 
    * Hugging Face Model: [stable-diffusion-2-kanji-finetune-lora](https://huggingface.co/kentarrito/stable-diffusion-2-kanji-finetune-lora)
 
-See the code to use diffusers library : https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/train_text_to_image.py
+See the code to use diffusers library : [https://github.com/huggingface/diffusers/blob/main/examples/text_to_image](https://github.com/huggingface/diffusers/tree/main/examples/text_to_image)
 
 Training was conducted using the English meanings as text prompts and kanji SVGs (converted to PNG) as image targets.
 
